@@ -7,8 +7,6 @@ package-lock.json
 out/
 
 # Environment files
-.env
-.env.local
 .env.*.local
 
 # TypeScript
@@ -36,7 +34,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Editor
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -47,3 +44,4 @@ yarn-error.log*
 .cache/
 *.tgz
 dist/
+config.bat
